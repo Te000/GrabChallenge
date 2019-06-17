@@ -34,4 +34,3 @@ Jupyter notebook
 4. Open the file: Prediction_Script.ipynb
 
 5. Follow the instructions in the Notebook to proceed! Happy Testing!
-# GrabChallenge
